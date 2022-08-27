@@ -1,0 +1,1 @@
+{"name":"Local: EQUALISE","url":"c:\\Users\\Joshua Deshmukh\\Google Drive\\CP\\Codechef\\EQUALISE.cpp","tests":[{"id":1660414325288,"input":"4\n5 20\n6 6\n12 2\n50 20","output":"YES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Joshua Deshmukh\\Google Drive\\CP\\Codechef\\EQUALISE.cpp","group":"local","local":true}

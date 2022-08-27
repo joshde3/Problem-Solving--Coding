@@ -1,0 +1,1 @@
+{"name":"Local: minmaxelementinarray","url":"c:\\Users\\Joshua Deshmukh\\Google Drive\\CP\\minmaxelementinarray.cpp","tests":[{"id":1655365289945,"input":"1\n8\n10 5 0 0 8 0 9 0","output":"0 8 0 9 0 10 5 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Joshua Deshmukh\\Google Drive\\CP\\minmaxelementinarray.cpp","group":"local","local":true}
